@@ -1,0 +1,22 @@
+{
+  "name": "convertcsv",
+  "version": "1.0.0",
+  "description": "",
+  "main": "parseToCsv.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AlexDerevyanko/convertLogToCsv.git"
+  },
+  "author": "ad",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AlexDerevyanko/convertLogToCsv/issues"
+  },
+  "homepage": "https://github.com/AlexDerevyanko/convertLogToCsv#readme",
+  "dependencies": {
+    "fs": "^0.0.1-security"
+  }
+}
